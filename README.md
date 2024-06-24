@@ -11,7 +11,7 @@ This repository contains Python scripts and data files used for scraping new tec
 - `web_scrape.py`: Python script for web scraping Walmart's website to extract new tech items.
 - `clean_data.py`: Python script for cleaning and preprocessing the scraped data.
 - `merge_files.py`: Python script to merge multiple CSV files containing scraped data.
-- `merged_data.csv`: Final cleaned and merged data in CSV format.
+- `walmart_new_tech.csv`: Final cleaned and merged data in CSV format.
 - `index1.html` to `index9.html`: HTML files containing raw data scraped from Walmart (sample files).
 - `data1.csv` to `data9.csv`: CSV files containing cleaned data extracted from corresponding HTML files.
 
