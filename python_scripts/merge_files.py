@@ -3,7 +3,7 @@ import pandas as pd
 import glob
 
 # Path to the current directory containing CSV files
-csv_files_path = './csv_files/data*.csv'  # Adjust this pattern if necessary
+csv_files_path = './csv_files/data*.csv'
 
 # Get a list of all CSV files in the current directory
 csv_files = glob.glob(csv_files_path)
